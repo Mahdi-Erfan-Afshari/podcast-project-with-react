@@ -5,7 +5,7 @@ This is a Demo of Repository >>> https://podcastreactapp.netlify.app/
 ## 🚀 Getting Started
 ### Clone
 
-- Clone this repo to your local machine using:
+- Clone this repo using:
 
 ```
 git clone https://github.com/Mahdi-Erfan-Afshari/podcast-project-with-react.git
@@ -13,7 +13,7 @@ git clone https://github.com/Mahdi-Erfan-Afshari/podcast-project-with-react.git
 
 ### Setup
 
-- Install project dependencies;
+- Install project;
   - ```javascript
     npm install
     ```
